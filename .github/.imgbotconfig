@@ -2,7 +2,7 @@
     "schedule": "daily",
     "ignoredFiles": [
         "**/GameData/**",
-        "dos/LegalMumboJumbo/*"
+        "docs/LegalMumboJumbo/*"
     ],
     "aggressiveCompression": "false"
     "compressWiki": "true"
